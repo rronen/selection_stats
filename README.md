@@ -25,9 +25,9 @@ To run, type:
 6. Num. sites in control population window  
 7. Num. non-fixed sites in control population window (used in all but Fst/PBS)  
 8. Num. sites in out-group window  
-9. Num. non-fixed sites in out-group (used in all but Fst/PBS)  
+9. Num. non-fixed sites in out-group window (used in all but Fst/PBS)  
 10. Watterson's theta, case population  
-11. Watterson's theta, control population window  
+11. Watterson's theta, control population  
 12. Tajima's theta, case population  
 13. Tajima's theta, control population  
 14. Negative log case over control Tajima's theta  
